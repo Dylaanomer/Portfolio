@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.search {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.container {
+    position: absolute;
+    top: 40%;
+}
+
+label {
+    background-color: red;
+    border: 10px;
+    color: white;
+    padding: 20px 46px;
+    text-decoration: none;
+    margin: 12px 4px;
+    cursor: pointer;
+  }
+
+  
+input {
+    background-color: white;
+    border: 0px;
+    color: black;
+    padding: 10px 26px;
+    text-decoration: none;
+    margin: 12px 4px;
+    cursor: pointer;
+  }
+
+body {
+    background-color: wheat;
+}
